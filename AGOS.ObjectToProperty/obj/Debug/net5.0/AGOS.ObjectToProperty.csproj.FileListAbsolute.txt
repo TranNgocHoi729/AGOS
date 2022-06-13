@@ -1,0 +1,12 @@
+F:\Doccument\C#\AGOS\AGOS\AGOS.ObjectToProperty\bin\Debug\net5.0\AGOS.ObjectToProperty.deps.json
+F:\Doccument\C#\AGOS\AGOS\AGOS.ObjectToProperty\bin\Debug\net5.0\AGOS.ObjectToProperty.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS.ObjectToProperty\bin\Debug\net5.0\ref\AGOS.ObjectToProperty.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS.ObjectToProperty\bin\Debug\net5.0\AGOS.ObjectToProperty.pdb
+F:\Doccument\C#\AGOS\AGOS\AGOS.ObjectToProperty\obj\Debug\net5.0\AGOS.ObjectToProperty.csproj.AssemblyReference.cache
+F:\Doccument\C#\AGOS\AGOS\AGOS.ObjectToProperty\obj\Debug\net5.0\AGOS.ObjectToProperty.GeneratedMSBuildEditorConfig.editorconfig
+F:\Doccument\C#\AGOS\AGOS\AGOS.ObjectToProperty\obj\Debug\net5.0\AGOS.ObjectToProperty.AssemblyInfoInputs.cache
+F:\Doccument\C#\AGOS\AGOS\AGOS.ObjectToProperty\obj\Debug\net5.0\AGOS.ObjectToProperty.AssemblyInfo.cs
+F:\Doccument\C#\AGOS\AGOS\AGOS.ObjectToProperty\obj\Debug\net5.0\AGOS.ObjectToProperty.csproj.CoreCompileInputs.cache
+F:\Doccument\C#\AGOS\AGOS\AGOS.ObjectToProperty\obj\Debug\net5.0\AGOS.ObjectToProperty.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS.ObjectToProperty\obj\Debug\net5.0\ref\AGOS.ObjectToProperty.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS.ObjectToProperty\obj\Debug\net5.0\AGOS.ObjectToProperty.pdb

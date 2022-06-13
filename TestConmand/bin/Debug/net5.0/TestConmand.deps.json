@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestConmand/1.0.0": {
+        "dependencies": {
+          "AGOS.ObjectToProperty": "1.0.0"
+        },
+        "runtime": {
+          "TestConmand.dll": {}
+        }
+      },
+      "AGOS.ObjectToProperty/1.0.0": {
+        "runtime": {
+          "AGOS.ObjectToProperty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestConmand/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AGOS.ObjectToProperty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

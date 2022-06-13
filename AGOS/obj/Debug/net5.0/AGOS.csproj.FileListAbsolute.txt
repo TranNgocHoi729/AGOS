@@ -1,0 +1,12 @@
+F:\Doccument\C#\AGOS\AGOS\AGOS\bin\Debug\net5.0\AGOS.deps.json
+F:\Doccument\C#\AGOS\AGOS\AGOS\bin\Debug\net5.0\AGOS.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS\bin\Debug\net5.0\ref\AGOS.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS\bin\Debug\net5.0\AGOS.pdb
+F:\Doccument\C#\AGOS\AGOS\AGOS\obj\Debug\net5.0\AGOS.csproj.AssemblyReference.cache
+F:\Doccument\C#\AGOS\AGOS\AGOS\obj\Debug\net5.0\AGOS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Doccument\C#\AGOS\AGOS\AGOS\obj\Debug\net5.0\AGOS.AssemblyInfoInputs.cache
+F:\Doccument\C#\AGOS\AGOS\AGOS\obj\Debug\net5.0\AGOS.AssemblyInfo.cs
+F:\Doccument\C#\AGOS\AGOS\AGOS\obj\Debug\net5.0\AGOS.csproj.CoreCompileInputs.cache
+F:\Doccument\C#\AGOS\AGOS\AGOS\obj\Debug\net5.0\AGOS.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS\obj\Debug\net5.0\ref\AGOS.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS\obj\Debug\net5.0\AGOS.pdb

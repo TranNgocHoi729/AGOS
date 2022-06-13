@@ -51,16 +51,13 @@ namespace AGOS.ObjectToProperty
             var props = input.GetType().GetProperties();
             foreach (var item in props)
             {
-                foreach (var select in Excepts)
+                if (!Excepts.Contains(item.Name))
                 {
-                    if (!item.Name.Equals(select))
+                    Items.Add(new Item
                     {
-                        Items.Add(new Item
-                        {
-                            Key = item.Name,
-                            Value = item.GetValue(input)
-                        });
-                    }
+                        Key = item.Name,
+                        Value = item.GetValue(input)
+                    });
                 }
             }
             return Items;

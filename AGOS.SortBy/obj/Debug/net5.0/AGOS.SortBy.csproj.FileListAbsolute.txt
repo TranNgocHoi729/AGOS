@@ -1,0 +1,12 @@
+F:\Doccument\C#\AGOS\AGOS\AGOS.SortBy\bin\Debug\net5.0\AGOS.SortBy.deps.json
+F:\Doccument\C#\AGOS\AGOS\AGOS.SortBy\bin\Debug\net5.0\AGOS.SortBy.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS.SortBy\bin\Debug\net5.0\ref\AGOS.SortBy.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS.SortBy\bin\Debug\net5.0\AGOS.SortBy.pdb
+F:\Doccument\C#\AGOS\AGOS\AGOS.SortBy\obj\Debug\net5.0\AGOS.SortBy.csproj.AssemblyReference.cache
+F:\Doccument\C#\AGOS\AGOS\AGOS.SortBy\obj\Debug\net5.0\AGOS.SortBy.GeneratedMSBuildEditorConfig.editorconfig
+F:\Doccument\C#\AGOS\AGOS\AGOS.SortBy\obj\Debug\net5.0\AGOS.SortBy.AssemblyInfoInputs.cache
+F:\Doccument\C#\AGOS\AGOS\AGOS.SortBy\obj\Debug\net5.0\AGOS.SortBy.AssemblyInfo.cs
+F:\Doccument\C#\AGOS\AGOS\AGOS.SortBy\obj\Debug\net5.0\AGOS.SortBy.csproj.CoreCompileInputs.cache
+F:\Doccument\C#\AGOS\AGOS\AGOS.SortBy\obj\Debug\net5.0\AGOS.SortBy.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS.SortBy\obj\Debug\net5.0\ref\AGOS.SortBy.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS.SortBy\obj\Debug\net5.0\AGOS.SortBy.pdb

@@ -1,0 +1,12 @@
+F:\Doccument\C#\AGOS\AGOS\AGOS.Filter\bin\Debug\net5.0\AGOS.Filter.deps.json
+F:\Doccument\C#\AGOS\AGOS\AGOS.Filter\bin\Debug\net5.0\AGOS.Filter.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS.Filter\bin\Debug\net5.0\ref\AGOS.Filter.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS.Filter\bin\Debug\net5.0\AGOS.Filter.pdb
+F:\Doccument\C#\AGOS\AGOS\AGOS.Filter\obj\Debug\net5.0\AGOS.Filter.csproj.AssemblyReference.cache
+F:\Doccument\C#\AGOS\AGOS\AGOS.Filter\obj\Debug\net5.0\AGOS.Filter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Doccument\C#\AGOS\AGOS\AGOS.Filter\obj\Debug\net5.0\AGOS.Filter.AssemblyInfoInputs.cache
+F:\Doccument\C#\AGOS\AGOS\AGOS.Filter\obj\Debug\net5.0\AGOS.Filter.AssemblyInfo.cs
+F:\Doccument\C#\AGOS\AGOS\AGOS.Filter\obj\Debug\net5.0\AGOS.Filter.csproj.CoreCompileInputs.cache
+F:\Doccument\C#\AGOS\AGOS\AGOS.Filter\obj\Debug\net5.0\AGOS.Filter.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS.Filter\obj\Debug\net5.0\ref\AGOS.Filter.dll
+F:\Doccument\C#\AGOS\AGOS\AGOS.Filter\obj\Debug\net5.0\AGOS.Filter.pdb
